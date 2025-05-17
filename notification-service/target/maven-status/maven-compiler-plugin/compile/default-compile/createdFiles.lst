@@ -1,0 +1,12 @@
+com\example\notificationservice\dto\NotificationResponse.class
+com\example\notificationservice\model\Notification$NotificationType.class
+com\example\notificationservice\dto\NotificationRequest.class
+com\example\notificationservice\model\Notification.class
+com\example\notificationservice\config\RabbitMQConfig.class
+com\example\notificationservice\NotificationServiceApplication.class
+com\example\notificationservice\controller\NotificationController.class
+com\example\notificationservice\service\NotificationService.class
+com\example\notificationservice\service\NotificationProcessor.class
+com\example\notificationservice\model\Notification$NotificationStatus.class
+com\example\notificationservice\service\NotificationProcessor$1.class
+com\example\notificationservice\repository\NotificationRepository.class
