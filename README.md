@@ -4,7 +4,7 @@ This is a Notification Service built using **Spring Boot**, **MySQL**, and **Rab
 
 ---
 
-## 📸 Screenshots (Replace with your images)
+## 📸 Screenshots 
 
 1. **FOR EMAIL(POST) POSTMAN**
    
